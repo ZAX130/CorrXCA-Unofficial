@@ -1,2 +1,2 @@
 # CorrXCA-Unofficial
-An unofficial implementation of Meng's new job "Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention".
+This repository provides an unofficial implementation of the correlation version frame work (CorrXCA) in "Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention" by Meng. 
